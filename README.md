@@ -20,5 +20,4 @@ We enjoyed doing this whole thing, we really liked that we were able to build wh
 a massive feat for normal coder, but for us we felt like we accomplished a lot, even for so little. I think the most fun thing about this was just checking a bunch 
 of websites and reading their html and seeing whether or not the site would allow us it, we did this for hours until we found newegg. It was a pain but it was a blast,
 we had a lot of fun, we learned a lot, and overcame challenges. We used prior knowledge of stuff we learned in class, and new knowledge that we had to each ourselves. 
-The project was probably our favorite project of school in general so far, and has got us working and researching and beginning our own coding projects. If we can do this
-we can do a lot. 
+The project was probably our favorite project of school in general so far, and has got us working and researching and beginning our own coding projects. Accomplishing this project meant a lot to us, and taught us that coding with limited knowledge still gives us an endless amount of possibilities, and gave us more confidence in attempting new code.
