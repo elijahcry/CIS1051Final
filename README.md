@@ -6,7 +6,7 @@ Our goals for this project were massive, we wanted to create a bot that scanned 
 and create averages among them, and then pick out the best ones, all while writing it to a csv file to write down the findings and have something to look at.
 
 Clearly that was not completed, but we got some of it done. We faced many challenges, we went into this very confident, maybe even a little cocky, and were
-humbled quickly. We had problems with installing the libraries needed to do this, had trouble finding the rght libraries for what we want, easier/harder or ones that 
+humbled quickly. We had problems with installing the libraries needed to do this, had trouble finding the right libraries for what we want, easier/harder or ones that 
 were more tuned for what we had in mind. Then writing the code, and figuring out the syntax with the new libraries, what we could pull from the html, how to be able to 
 read the html, and then how iterate over it into lists/dictionaries. This was a problem. For a while it just seemed like we weren't able to get the right html class
 names, or the right syntax, or the right parameters. I don't know how many times we tried basically the same code but in different ways to write in the ways that we
