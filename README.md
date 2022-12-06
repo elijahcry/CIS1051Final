@@ -1,7 +1,9 @@
 # cs1051-final
 Final project: NewEgg Price Comparer
 by Bryce Rutledge, Elijah Cyr
+
 Youtube url:https://www.youtube.com/watch?v=AOkNg7VeLgQ&t=1s&ab_channel=ElijahCyr
+
 Our goals for this project were massive, we wanted to create a bot that scanned websites for cerrtain items someone is looking for to gather a price, review,
 and create averages among them, and then pick out the best ones, all while writing it to a csv file to write down the findings and have something to look at.
 
